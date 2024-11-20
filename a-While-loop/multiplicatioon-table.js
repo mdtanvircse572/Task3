@@ -14,7 +14,6 @@ let i = 1; // Starting multiplier
 //     i++;
 // }
 while(i <= 10){  // Loop until multiplier reaches 10
-    console.log(`${num} x ${i} = ${num * i}`); // Display the result
-
+    console.log(`${num} x ${i} = ${num * i}`); // Display the multiplication result
     i++; // Increment the multiplier
 }
